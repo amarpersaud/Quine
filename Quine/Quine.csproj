@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeIdentifiers>win7-x64</RuntimeIdentifiers>
+    <StartupObject>Program</StartupObject>
+    <Authors>Amar Persaud</Authors>
+    <Company>N/A</Company>
+    <Description>A quine written in C# that is formatted.</Description>
+    <Copyright>Copyright (c) Amar Persaud 2017</Copyright>
+  </PropertyGroup>
+</Project>
